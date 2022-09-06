@@ -10,7 +10,7 @@ XML Digital Signatures implemented in pure Go.
 Install `goxmldsig` using `go get`:
 
 ```
-$ go get github.com/russellhaering/goxmldsig
+$ go get github.com/RhuanPrado/goxmldsig
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ package main
 
 import (
     "github.com/beevik/etree"
-    "github.com/russellhaering/goxmldsig"
+    "github.com/RhuanPrado/goxmldsig"
 )
 
 func main() {
