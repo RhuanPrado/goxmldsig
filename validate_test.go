@@ -6,8 +6,8 @@ import (
 	"encoding/pem"
 	"testing"
 
+	"github.com/RhuanPrado/goxmldsig/etreeutils"
 	"github.com/beevik/etree"
-	"github.com/russellhaering/goxmldsig/etreeutils"
 	"github.com/stretchr/testify/require"
 )
 
